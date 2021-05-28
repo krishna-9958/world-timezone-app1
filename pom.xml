@@ -36,7 +36,7 @@
 				<username>krishna99998</username>
 				<environment>Sandbox</environment>
 				<workers>1</workers>
-				<workerType>Micro</workerType>
+				<workerType>MICRO</workerType>
 				<applicationName>worldTimeZone-Service</applicationName>
 				<password>Karthik@1</password>
 				<muleVersion>4.3.0</muleVersion>
