@@ -14,7 +14,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
  
     <app.runtime>4.2.2</app.runtime>
-    <mule.maven.plugin.version>3.3.5</mule.maven.plugin.version>
+    <mule.maven.plugin.version>3.4.2</mule.maven.plugin.version>
   </properties>
  
   <build>
@@ -35,7 +35,7 @@
         <configuration>
         <cloudHubDeployment>
           <uri>https://anypoint.mulesoft.com</uri>
-          <muleVersion>4.2.2</muleVersion>
+          <muleVersion>4.3.0</muleVersion>
           <username>krishna99998</username>
           <password>Karthik@1</password>
           <applicationName>world-demo-api</applicationName>
