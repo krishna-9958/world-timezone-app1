@@ -41,7 +41,7 @@
 				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>MICRO</workerType>
-				<applicationName>worldTimeZone-Service</applicationName>
+				<applicationName>worldTimeZone</applicationName>
 				<password>Karthik@1</password>
 				<muleVersion>4.3.0</muleVersion>
 				<properties>
